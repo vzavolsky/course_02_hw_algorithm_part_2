@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
+/course_02_hw_algorithm_part_2.iml
